@@ -28,11 +28,9 @@ The script creates a timestamped folder under the `-OutDir` (default: `.\KISA-IR
 - File inventories & SHA-256 hashes for hot spots
 
 ## Ready-to-publish GitHub link
-When you create your repo, a suggested URL is:
 ```
-https://github.com/<your-account>/kisa-ir-toolkit
+https://github.com/Soo-boon/Sooboon-IR-Script
 ```
-Place these files at the root of that repository and share the link in your assignment.
 
 ---
 
