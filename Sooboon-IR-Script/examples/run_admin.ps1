@@ -1,0 +1,1 @@
+Start-Process PowerShell -Verb RunAs -ArgumentList "-ExecutionPolicy Bypass -File `".\ir_quick_triage.ps1`""
